@@ -6,7 +6,7 @@ autosize: true
 
 Overview
 ========================================================
-This presentation contains documentation for the Diamond price prediction application. The application can be found [**here**] (https://avkch.shinyapps.io/Course-Project-Shiny-Application-and-Reproducible-Pitch)
+This presentation contains documentation for the Diamond price prediction application. The application can be found [**here**] (https://sainhwinder.shinyapps.io/shinywebapp/)
 
 This application it is building linear regression model using `diamonds` data set and is predicting the price of a diamond depending of its properties.The application allows the user to select:
 - Carat
@@ -58,7 +58,7 @@ The application is build using Shiny package and the source code is in 2 files:
 - `ui.R`
 - `server.R`
 
-Both files can be found here: [GitHub repo](https://github.com/avkch/Course-Project-Shiny-Application-and-Reproducible-Pitch)
+Both files can be found here: [GitHub repo](https://github.com/sainhwinder/Course-Project-Shiny-Application-and-Reproducible-Pitch)
 
 Application functionality
 ========================================================
